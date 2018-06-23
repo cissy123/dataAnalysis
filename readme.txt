@@ -1,0 +1,1 @@
+pyinstaller E:\Projects\dataAnalysis_py\demo.spec --onefile
